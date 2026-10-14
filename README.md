@@ -1,4 +1,4 @@
-# P# 💰 Smart AI Budget Assistant
+# 💰 Smart AI Budget Assistant
 
 AI-powered smart budget assistant to track expenses and give personalized saving recommendations.
 
